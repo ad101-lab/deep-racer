@@ -19,7 +19,7 @@ Discrete
 
 ##### Training
 
-Rough, but it kinda got ther
+Rough, but it kinda got there
 
 ##### Evaluation
 

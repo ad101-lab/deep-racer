@@ -10,8 +10,7 @@ Stay straight with the trak; 2 steps at 10 and 20 degrees, also stay near the ce
 
 1 - 2 action space
 
-Slow, but worked, 100% completition in sim. not very good on the physical track, it was kinda slow and was not able to stay on the track too well
-
+Slow, but worked, 100% completition in sim. not very good on the physical track, it was kinda slow and was not able to stay on the track too well. 
 
 ## Second model
 
