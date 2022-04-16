@@ -2,11 +2,16 @@
 
 The ideas behind this model are used is that following the centerline will allow the robot to do more advanced and fast paths, and with testing on the track we learned that the models do best when it can see more of track and has more margin for error, so we promoted staying near the center of the track. 
 
+## Reward function
+
+Stay straight with the trak; 2 steps at 10 and 20 degrees, also stay near the center line.
+
 ## First version
 
 1 - 2 action space
 
 Slow, but worked, 100% completition in sim. not very good on the physical track, it was kinda slow and was not able to stay on the track too well
+
 
 ## Second model
 
